@@ -1,4 +1,4 @@
-# fedoralamp
+# How to install Apache/Mariadb/Php/phpMyadmin on Fedora
 How to install LAMP stack on Fedora
 
 Click this link to see full page
