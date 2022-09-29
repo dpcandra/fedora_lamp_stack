@@ -1,6 +1,9 @@
 # fedoralamp
 How to install LAMP stack on Fedora
 
+Click this link to see full page
+
+https://github.com/dpcandra/fedoralamp/wiki/How-To-install-LAMP-Fedora-(Development-purposes)
 
 
 Welcome to the fedoralamp wiki!
