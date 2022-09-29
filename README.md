@@ -41,3 +41,6 @@ to check php is working properly create new file for example index.php , and ins
 To displaying ERROR message , edit file /etc/php.ini find this code display_errors = Off to display_errors = On
 
 Install XDEBUG *optional $ sudo dnf install php-xdebug , xdebug extension already attached on php.ini don't need to edit the config. all you need to do is restart the service $ sudo systemctl restart httpd.service
+
+Click this link to see full Step
+https://github.com/dpcandra/fedoralamp/wiki/How-To-install-LAMP-Fedora-(Development-purposes)
